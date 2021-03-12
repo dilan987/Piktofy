@@ -1,6 +1,6 @@
 # Piktofy
 ## descripción
-Piktofy es un aplicativo web ideada como una red social desarrollado en lenguaje de programación Java. En este repositorio se encuentra los archivos del proyecto incluyendo la base de datos SQL utilizada para el funcionamiento del sistema.
+Piktofy es un aplicativo web ideado como una red social desarrollado en lenguaje de programación Java. En este repositorio se encuentra los archivos del proyecto incluyendo la base de datos SQL utilizada para el funcionamiento del sistema.
 
 ## Objetivo:
 realizar una base de datos y una aplicación funcional donde se puedan
