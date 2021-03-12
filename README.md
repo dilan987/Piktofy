@@ -12,4 +12,4 @@ Imágenes del sistema en funcionamiento:
 
 
 
-
+https://github.com/dilan987/Piktofy/blob/55075ce9b06759621df328c15ea85814e7146560/imagen.png
