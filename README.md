@@ -6,7 +6,7 @@ Piktofy es un aplicativo web ideado como una red social desarrollado en lenguaje
 realizar una base de datos y una aplicación funcional donde se puedan
 compartir, archivar y organizar imágenes, agrupándolas de acuerdo con el interés del
 usuario.
-##Lenguaje:
+## Lenguaje:
 Java SE 8u11 Platform, MYSQL server 5.7.29
 ## Plataforma de desarrollo:
 Netbeans 8.2, MYSQL workbeanch 8.0 CE
